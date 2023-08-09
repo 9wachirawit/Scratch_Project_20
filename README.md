@@ -2,5 +2,5 @@
 # email -nickname -position
 # wachirawit_chai@cmu.ac.th -Jownay   -UX/UI
 # chiengthong2004@gmail.com -August   -
-# tt.icy013@gmail.com -?
+# tt.icy013@gmail.com -itim
 # nopradakrit@gmail.com -Faii
